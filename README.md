@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lucas Öhlin <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-ohlin&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-ohlin" /> </p> </h1>
+<h1 align="left">Hi 👋, I'm Lucas Öhlin </h1>
 <h3 align="left">A mainly backend developer from Sweden, but also tend to dive into frontend every fullmoon</h3>
 
 - 📫 **lucas.persson.ohlin@hotmail.com**
