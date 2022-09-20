@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-ohlin&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-ohlin" /> </p>
 
-- 📫 How to reach me **lucas.persson.ohlin@hotmail.com**
+- 📫 Reach me at: **lucas.persson.ohlin@hotmail.com**
 
-- ⚡ Fun fact **Also a great game developer ;)**
+- ⚡ **Also a great game developer ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
