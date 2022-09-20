@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Öhlin</h1>
-<h3 align="center">A mainly backend developer from Sweden, but also tend to dive into frontend every fullmoon :)</h3>
+<h3 align="center">A mainly backend developer from Sweden, but also tend to dive into frontend every fullmoon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-ohlin&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-ohlin" /> </p>
 
