@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Lucas Persson Öhlin</h1>
+<h1 align="left">Hi👋, I'm Lucas Öhlin</h1>
 <h3 align="left">A mainly backend developer from Sweden</h3>
 
 - Currently working on: [OOP-2-Inheritance](https://github.com/lucas-ohlin/OOP-2-Inheritance)
