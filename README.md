@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm Lucas Öhlin</h1>
 <h3 align="left">A mainly backend developer from Sweden</h3>
 
-- Currently working on: [OOP-4-CollectionGenerics](https://github.com/lucas-ohlin/OOP-4-CollectionGenerics)
+- Currently working on: [Team-BankApplication](https://github.com/lucas-ohlin/Team-BankApplication)
 
 - Email: **lucas.persson.ohlin@hotmail.com**
 
