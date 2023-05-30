@@ -5,7 +5,7 @@
 
 - Email: **lucas.persson.ohlin@hotmail.com**
 
-- Wbsite: https://lucas-ohlin.github.io/CV-Website-React/
+- Website: https://lucas-ohlin.github.io/CV-Website-React/
 
 
 <p align="left">
