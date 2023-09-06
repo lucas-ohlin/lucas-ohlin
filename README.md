@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm Lucas Öhlin</h1>
 <h3 align="left">A mainly backend developer from Sweden</h3>
 
-- Currently working on: [CV-Website-React](https://github.com/lucas-ohlin/CV-Website-React)
+- Currently working on: [MVC-With-MininalAPI](https://github.com/lucas-ohlin/MVC-With-MininalAPI)
 
 - Email: **lucas.persson.ohlin@hotmail.com**
 
