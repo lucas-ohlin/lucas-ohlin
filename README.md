@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Lucas Öhlin</h1>
+<h1 align="left">Hi👋, I'm Lucas Persson Öhlin</h1>
 <h3 align="left">A mainly backend developer from Sweden</h3>
 
 - Currently working on: [MVC-With-MininalAPI](https://github.com/lucas-ohlin/MVC-With-MininalAPI)
