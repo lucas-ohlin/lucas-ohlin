@@ -5,6 +5,7 @@
 
 - Email: **lucas.persson.ohlin@hotmail.com**
 
+- Discord Bots - https://nomads-bots.netlify.app/
 - Website: https://lucas-ohlin.github.io/CV-Website-React/
 
 
