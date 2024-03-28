@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm Lucas Persson Öhlin</h1>
 <h3 align="left">A mainly backend developer from Sweden</h3>
 
-- Currently working on: [EmployeeHub-React](https://github.com/TheoEsberg/EmployeeHub-React)
+- Currently working on: [TarkovGuide](https://tarkovguide.net/)
 
 - Email: **lucas.persson.ohlin@hotmail.com**
 
