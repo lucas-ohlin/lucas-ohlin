@@ -5,8 +5,6 @@
 
 - Email: **lucas.persson.ohlin@hotmail.com**
 
-- Discord Bots - https://nomads-bots.netlify.app/
-
 
 <p align="left">
 </p>
