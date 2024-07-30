@@ -1,12 +1,12 @@
-<h1 align="left">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img align src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+;I’m+Lucas+Persson+Öhlin!;&color=000000&repeat=true" />
   </a>
 </h1>
-<h3 align="left">A mainly backend developer from Sweden 🇸🇪</h3>
-<p align="left">Email: <strong>lucas.persson.ohlin@hotmail.com</strong> • Twitter: <a href="https://x.com/nomad_swe">nomad_swe</a></p>
+<h3 align="center">A mainly backend developer from Sweden 🇸🇪</h3>
+<p align="center">Email: <strong>lucas.persson.ohlin@hotmail.com</strong> • Twitter: <a href="https://x.com/nomad_swe">nomad_swe</a></p>
 
-
+<hr/>
 <h3 align="left">
   Current main project
   <a href="https://tarkovguide.net/" style="margin-left: 5px;">
