@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img align src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+;I’m+Lucas+Persson+Öhlin!;&color=000000&repeat=false" />
+    <img align src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+;I’m+Lucas+Persson+Öhlin!;&color=000000&repeat=true" />
   </a>
 </h1>
 <h3 align="center">A mainly backend developer from Sweden 🇸🇪</h3>
 <p align="center">Email: <strong>lucas.persson.ohlin@hotmail.com</strong> • Twitter: <a href="https://x.com/nomad_swe">nomad_swe</a></p>
-<hr/>
+
 
 <h3 align="left">
   Current main project
@@ -26,6 +26,6 @@
 <hr/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=400" alt="Lucas's Most Used Languages" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-ohlin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=24&card_width=400" alt="Lucas's GitHub stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=350" alt="Lucas's Most Used Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-ohlin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=24&card_width=350" alt="Lucas's GitHub stats" height="195"/>
 </div>
