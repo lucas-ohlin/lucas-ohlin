@@ -9,7 +9,7 @@
 <hr/>
 <h3 align="left">
   Current main project
-  <a target="_blank href="https://tarkovguide.net/" style="margin-left: 5px;">
+  <a href="https://tarkovguide.net/" style="margin-left: 5px;">
     <strong>TarkovGuide</strong>
   </a>
 </h3>
