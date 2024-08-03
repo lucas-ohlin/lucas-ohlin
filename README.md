@@ -26,6 +26,6 @@
 <hr/>
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=350" alt="Lucas's Most Used Languages" height="180" style="flex: 1 1 100%; width: 48%; margin-bottom: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-ohlin&theme=white&hide_border=true" alt="lucas-ohlin" height="180" style="flex: 1 1 100%; width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=400" alt="Lucas's Most Used Languages" height="180" style="flex: 1 1 100%; max-width: 48%; margin-bottom: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-ohlin&theme=white&hide_border=true" alt="lucas-ohlin" height="180" style="flex: 1 1 100%; max-width: 48%;"/>
 </div>
