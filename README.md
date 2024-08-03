@@ -25,8 +25,7 @@
 </i>
 <hr/>
 
-<div align="left">
-  <img width="48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=350" alt="Lucas's Most Used Languages" height="180"/>
-  <!--<img width="48%"src="https://github-readme-stats.vercel.app/api?username=lucas-ohlin&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&line_height=24&card_width=350" alt="Lucas's GitHub stats" height="195"/>-->
-  <img width="48%"  height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-ohlin&theme=white&hide_border=true" alt="lucas-ohlin" />
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=350" alt="Lucas's Most Used Languages" height="180" style="flex: 1 1 100%; max-width: 48%; margin-bottom: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-ohlin&theme=white&hide_border=true" alt="lucas-ohlin" height="180" style="flex: 1 1 100%; max-width: 48%;"/>
 </div>
