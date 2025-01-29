@@ -27,5 +27,5 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ohlin&layout=compact&hide_border=true&langs_count=8&card_width=400" alt="Lucas's Most Used Languages" height="180" style="flex: 1 1 100%; max-width: 48%; margin-bottom: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-ohlin&show_icons=true&theme=transparent" alt="lucas-ohlin" height="180" style="flex: 1 1 100%; max-width: 45%;" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=lucas-ohlin&show_icons=true&theme=transparent" alt="lucas-ohlin" height="180" style="flex: 1 1 100%; max-width: 45%;" /> -->
 </div>
